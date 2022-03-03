@@ -1,5 +1,4 @@
 # import pygame, clingo and re library
-from asyncio.windows_events import NULL
 import pygame
 import clingo
 import re
